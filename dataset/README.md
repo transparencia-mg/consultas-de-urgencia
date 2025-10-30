@@ -4,4 +4,5 @@ Representam o atendimento imediato prestado a pacientes que procuram o serviço 
 
 Termos relacionados: pronto-atendimento, pronto-socorro, porta de urgência.
 
-Notas técnicas: Notas técnicas: só é possível apresentar informações para os hospitais da rede Fhemig que já migraram para o sistema ERP Tasy.
+Notas técnicas: só é possível apresentar informações para os hospitais da rede Fhemig que já migraram para o sistema ERP Tasy.
+
