@@ -47,10 +47,10 @@
         "scheme": "file",
         "title": "Consultas de urgência da rede FHEMIG a partir de 2025",
         "stats": {
-          "hash": "cfad9bbadd5e5a9f6cb07717f8565fc8",
-          "bytes": 2316,
+          "hash": "676012b6248ee5323cd8b29175100f0c",
+          "bytes": 2679,
           "fields": 5,
-          "rows": 52
+          "rows": 60
         }
       },
       "time": 0.013,
